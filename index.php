@@ -3,11 +3,9 @@
 ?>
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Index</title>
-		<meta charset="UTF-8"/>
-		<link rel="stylesheet" type="text/css" title="CSS" href="style/stylesDuMenu.css"/>
-	</head>
+	<?php
+				include 'incls_regrs/donnees/head.html'
+			?>
 	<body>
 		<header>
 			<h1>Mon application DEROO Dylan</h1>
