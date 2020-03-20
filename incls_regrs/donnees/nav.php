@@ -20,10 +20,10 @@
 		$pTexte=$valeur;
 		$pClasse=$valeur;
 			$var=new Hyperlien($pUrl, $pId, $pTexte, $pClasse);
-			$ez=$var -> ancre();
-			echo $ez;
-			$chn=$chn." <li> ".$ez." </li> ";
+			$lien=$var -> ancre();
+			$chn=$chn." <li> ".$lien." </li> ";
 	}
+echo $chn;
 
 
 ?>
