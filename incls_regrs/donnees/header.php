@@ -11,6 +11,6 @@
 				<img			/>
 			</div>
 			<?php
-				include 'incls_regrs/donnees/nav.html';
+				include 'incls_regrs/donnees/nav.php';
 			?>
 </header>

@@ -10,6 +10,6 @@
 		include 'incls_regrs/donnees/head.html';
 	?>
 	<?php
-		include 'incls_regrs/donnees/body.html' 
+		include 'incls_regrs/donnees/body.php' 
 	?>
 </html>
