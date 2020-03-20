@@ -20,7 +20,7 @@
 				<img			/>
 			</div>
 			<?php
-				include 'nav.html'
+				include 'incls_regrs/donnees/nav.html'
 			?>
 		</header>
 			<main>
